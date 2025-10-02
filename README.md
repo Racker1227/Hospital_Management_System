@@ -2,12 +2,17 @@
 
 The Hospital Management System (HMS) is a comprehensive application aimed at improving the efficiency, accuracy, and accessibility of hospital operations. It typically includes modules for:
 
-Patient Management: Registration, admission, discharge, and medical history tracking.
-Doctor and Staff Management: Scheduling, profiles, and departmental assignments.
-Appointment Scheduling: Facilitates booking and managing patient-doctor interactions.
-Billing and Payments: Handles invoices, insurance claims, and payment records.
-Inventory and Pharmacy: Tracks medical supplies, prescriptions, and stock levels.
-Reports and Analytics: Generates performance, financial, and clinical reports. The system is designed to reduce paperwork, minimize human error, and provide real-time access to critical data, enhancing decision-making and patient care quality.
+-Patient Management: Registration, admission, discharge, and medical history tracking.
+-Doctor and Staff Management: Scheduling, profiles, and departmental assignments.
+-Appointment Scheduling: Facilitates booking and managing patient-doctor interactions.
+-Billing and Payments: Handles invoices, insurance claims, and payment records.
+-Inventory and Pharmacy: Tracks medical supplies, prescriptions, and stock levels.
+-Reports and Analytics: Generates performance, financial, and clinical reports. The system is designed to reduce paperwork, minimize human error, and provide real-time access to critical data, enhancing decision-                         making and patient care quality.
+
+
+
+
+
 The Hospital Management System document specifies the following technologies used for development:
 
 
